@@ -1,0 +1,11 @@
+{
+  "name": "ok3d",
+  "version": "1.1.0",
+  "description": "OK3D \u2014 Impresiones 3D & Cat\u00e1logo Oficial con Sorteo de Gran Premio Doctor Doom",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "author": "Mauricio Uribe Maldonado",
+  "license": "UNLICENSED"
+}
